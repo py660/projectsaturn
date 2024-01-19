@@ -1,6 +1,9 @@
 body {
   text-align:center;
-  background:#221;
+  background:#C3FF65;
   color:white;
   font-family:Arial, Helvetica, sans-serif;
+}
+a {
+  color:white;
 }
